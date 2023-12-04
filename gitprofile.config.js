@@ -50,10 +50,10 @@ const config = {
       companyLink: 'https://pinehurst.com',
     },
   ],
-  'Credly Badges': [
+  /* 'Credly Badges': [
     {
       link: 'https://www.credly.com/users/nick-wolcott'
-    },
+    }, */
   ], 
   education: [
     {
