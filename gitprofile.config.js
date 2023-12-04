@@ -53,8 +53,8 @@ const config = {
   /* 'Credly Badges': [
     {
       link: 'https://www.credly.com/users/nick-wolcott'
-    }, */
-  ], 
+    }, 
+  ], */
   education: [
     {
       institution: 'East Carolina University',
