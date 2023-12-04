@@ -50,14 +50,11 @@ const config = {
       companyLink: 'https://pinehurst.com',
     },
   ],
-  /* certifications: [
+  'Credly Badges': [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com'
+      link: 'https://www.credly.com/users/nick-wolcott'
     },
-  ], */
+  ], 
   education: [
     {
       institution: 'East Carolina University',
